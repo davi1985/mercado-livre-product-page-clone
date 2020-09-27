@@ -1,5 +1,8 @@
 # Clone da Página de Produto do Mercado Livre
 
+ReactJS | UI Clone by Rocketseat
+Link da aula: https://youtu.be/APs_xQ2hUOE
+
 !['screenshot'](src/assets/screenshot.png)
 
 ## Techs
